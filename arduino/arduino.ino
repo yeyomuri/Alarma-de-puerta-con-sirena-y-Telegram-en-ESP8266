@@ -30,8 +30,8 @@ unsigned long previousMillis = 0;
 const long interval = 1500;
 
 
-const char* ssid = "TP-LINK_877C";
-const char* password = "20432447";
+const char* ssid = "XXXXXXXXXXXXXXXXXXXXX";
+const char* password = "XXXXXXXXXXXXXXXXX";
 
 // Initialize Telegram BOT
 #define BOTtoken "5328238426:AAEE42q-0a2YenEfyM14O5GTmd5RDDXi52k"  // your Bot Token (Get from Botfather)
@@ -39,7 +39,7 @@ const char* password = "20432447";
 // Use @myidbot to find out the chat ID of an individual or a group
 // Also note that you need to click "start" on a bot before it can
 // message you
-#define CHAT_ID "5146763659"
+#define CHAT_ID "XXXXXXXXXXXXXXXXXXXXXX"
 
 
 X509List cert(TELEGRAM_CERTIFICATE_ROOT);
